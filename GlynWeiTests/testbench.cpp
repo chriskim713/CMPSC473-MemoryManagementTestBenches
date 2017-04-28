@@ -25,7 +25,8 @@ void run_test(string in, string out) {
 	}
 	auto end = chrono::high_resolution_clock::now();
 	chrono::duration<double> time = end - start;
-	cout << "Finished running test.\nTime elapsed:" << time.count() << "\nNumber of swaps: " << manager.numberPageSwaps() << endl;
+	cout << "Finished running test. Time elapsed:" << time.count() << endl;
+	out_stream << manager.numberPageSwaps() << endl;
 	in_stream.close();
 	out_stream.close();
 }
@@ -45,7 +46,8 @@ void generate_tests(ReplacementPolicy p, unsigned page_size, unsigned no_frames,
 	}
 	auto end = chrono::high_resolution_clock::now();
 	chrono::duration<double> time = end - start;
-	cout << "Generating tests done.\nTime elapsed:" << time.count() << "\nNumber of swaps: " << manager.numberPageSwaps() << endl;
+	cout << "Generating tests done.\nTime elapsed:" << time.count() << endl; 
+	out_stream << manager.numberPageSwaps() << endl;
 	in_stream.close();
 	out_stream.close();
 }

@@ -9,9 +9,10 @@ The first 4 numbers is the replacement policy (0 is FIFO, 1 is LRU), page size, 
 The remaining numbers are virtual addresses to be sent in as arguments for memoryAccess().
 
 The output file is also delimited by a new line. Each number represent the physical address returned by memoryAccess().
-The number of page swaps is outputted to stdout. 
+The number of page swaps is outputted on the last line.
+The execution time is outputted to stdout. 
 
-For the XLL input files, it is recommended you run your program with -O2 and -O3 optimization as it may take several seconds to minutes to finish.
+For the XLL input files, it is recommended you run your program with -O2 or -O3 optimization as it may take several seconds to minutes to finish.
 My results are also attached. You can run FC <your output> <my output> to see if our outputs differ on a Windows machine. 
 
 NOTE: I'm still verifying my own output. Don't be surprised if our outputs differ!
