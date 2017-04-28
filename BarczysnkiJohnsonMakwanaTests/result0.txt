@@ -1,0 +1,506 @@
+Policy Number (LRU = 1, FIFO=0):  1
+Enter N: 3
+Number of Frames: 4
+Virtual Address Size: 8
+
+Give an address: 
+Address: 144
+Physical memory: 0
+Total Swaps: 0
+
+Give an address: 
+Address: 256
+Physical memory: 8
+Total Swaps: 0
+
+Give an address: 
+Address: 1
+Physical memory: 17
+Total Swaps: 0
+
+Give an address: 
+Address: 33
+Physical memory: 25
+Total Swaps: 0
+
+Give an address: 
+Address: 96
+Physical memory: 0
+Total Swaps: 1
+
+Give an address: 
+Address: 25
+Physical memory: 9
+Total Swaps: 2
+
+Give an address: 
+Address: 223
+Physical memory: 23
+Total Swaps: 3
+
+Give an address: 
+Address: 67
+Physical memory: 27
+Total Swaps: 4
+
+Give an address: 
+Address: 163
+Physical memory: 3
+Total Swaps: 5
+
+Give an address: 
+Address: 108
+Physical memory: 12
+Total Swaps: 6
+
+Give an address: 
+Address: 72
+Physical memory: 16
+Total Swaps: 7
+
+Give an address: 
+Address: 9
+Physical memory: 25
+Total Swaps: 8
+
+Give an address: 
+Address: 126
+Physical memory: 6
+Total Swaps: 9
+
+Give an address: 
+Address: 248
+Physical memory: 8
+Total Swaps: 10
+
+Give an address: 
+Address: 178
+Physical memory: 18
+Total Swaps: 11
+
+Give an address: 
+Address: 256
+Physical memory: 24
+Total Swaps: 12
+
+Give an address: 
+Address: 21
+Physical memory: 5
+Total Swaps: 13
+
+Give an address: 
+Address: 140
+Physical memory: 12
+Total Swaps: 14
+
+Give an address: 
+Address: 88
+Physical memory: 16
+Total Swaps: 15
+
+Give an address: 
+Address: 149
+Physical memory: 29
+Total Swaps: 16
+
+Give an address: 
+Address: 8
+Physical memory: 0
+Total Swaps: 17
+
+Give an address: 
+Address: 74
+Physical memory: 10
+Total Swaps: 18
+
+Give an address: 
+Address: 45
+Physical memory: 21
+Total Swaps: 19
+
+Give an address: 
+Address: 16
+Physical memory: 24
+Total Swaps: 20
+
+Give an address: 
+Address: 151
+Physical memory: 7
+Total Swaps: 21
+
+Give an address: 
+Address: 17
+Physical memory: 25
+Total Swaps: 21
+
+Give an address: 
+Address: 85
+Physical memory: 13
+Total Swaps: 22
+
+Give an address: 
+Address: 139
+Physical memory: 19
+Total Swaps: 23
+
+Give an address: 
+Address: 36
+Physical memory: 4
+Total Swaps: 24
+
+Give an address: 
+Address: 153
+Physical memory: 25
+Total Swaps: 25
+
+Give an address: 
+Address: 58
+Physical memory: 10
+Total Swaps: 26
+
+Give an address: 
+Address: 41
+Physical memory: 17
+Total Swaps: 27
+
+Give an address: 
+Address: 121
+Physical memory: 1
+Total Swaps: 28
+
+Give an address: 
+Address: 101
+Physical memory: 29
+Total Swaps: 29
+
+Give an address: 
+Address: 216
+Physical memory: 8
+Total Swaps: 30
+
+Give an address: 
+Address: 29
+Physical memory: 21
+Total Swaps: 31
+
+Give an address: 
+Address: 156
+Physical memory: 4
+Total Swaps: 32
+
+Give an address: 
+Address: 147
+Physical memory: 27
+Total Swaps: 33
+
+Give an address: 
+Address: 27
+Physical memory: 19
+Total Swaps: 33
+
+Give an address: 
+Address: 246
+Physical memory: 14
+Total Swaps: 34
+
+Give an address: 
+Address: 20
+Physical memory: 4
+Total Swaps: 35
+
+Give an address: 
+Address: 42
+Physical memory: 26
+Total Swaps: 36
+
+Give an address: 
+Address: 247
+Physical memory: 15
+Total Swaps: 36
+
+Give an address: 
+Address: 8
+Physical memory: 16
+Total Swaps: 37
+
+Give an address: 
+Address: 144
+Physical memory: 0
+Total Swaps: 38
+
+Give an address: 
+Address: 220
+Physical memory: 28
+Total Swaps: 39
+
+Give an address: 
+Address: 192
+Physical memory: 8
+Total Swaps: 40
+
+Give an address: 
+Address: 26
+Physical memory: 18
+Total Swaps: 41
+
+Give an address: 
+Address: 43
+Physical memory: 3
+Total Swaps: 42
+
+Give an address: 
+Address: 250
+Physical memory: 26
+Total Swaps: 43
+
+Give an address: 
+Address: 11
+Physical memory: 11
+Total Swaps: 44
+
+Give an address: 
+Address: 164
+Physical memory: 20
+Total Swaps: 45
+
+Give an address: 
+Address: 113
+Physical memory: 1
+Total Swaps: 46
+
+Give an address: 
+Address: 164
+Physical memory: 20
+Total Swaps: 46
+
+Give an address: 
+Address: 137
+Physical memory: 25
+Total Swaps: 47
+
+Give an address: 
+Address: 159
+Physical memory: 15
+Total Swaps: 48
+
+Give an address: 
+Address: 46
+Physical memory: 6
+Total Swaps: 49
+
+Give an address: 
+Address: 35
+Physical memory: 19
+Total Swaps: 50
+
+Give an address: 
+Address: 37
+Physical memory: 21
+Total Swaps: 50
+
+Give an address: 
+Address: 229
+Physical memory: 29
+Total Swaps: 51
+
+Give an address: 
+Address: 167
+Physical memory: 15
+Total Swaps: 52
+
+Give an address: 
+Address: 71
+Physical memory: 7
+Total Swaps: 53
+
+Give an address: 
+Address: 121
+Physical memory: 17
+Total Swaps: 54
+
+Give an address: 
+Address: 181
+Physical memory: 29
+Total Swaps: 55
+
+Give an address: 
+Address: 47
+Physical memory: 15
+Total Swaps: 56
+
+Give an address: 
+Address: 171
+Physical memory: 3
+Total Swaps: 57
+
+Give an address: 
+Address: 212
+Physical memory: 20
+Total Swaps: 58
+
+Give an address: 
+Address: 180
+Physical memory: 28
+Total Swaps: 58
+
+Give an address: 
+Address: 243
+Physical memory: 11
+Total Swaps: 59
+
+Give an address: 
+Address: 223
+Physical memory: 7
+Total Swaps: 60
+
+Give an address: 
+Address: 111
+Physical memory: 23
+Total Swaps: 61
+
+Give an address: 
+Address: 98
+Physical memory: 26
+Total Swaps: 62
+
+Give an address: 
+Address: 225
+Physical memory: 9
+Total Swaps: 63
+
+Give an address: 
+Address: 192
+Physical memory: 0
+Total Swaps: 64
+
+Give an address: 
+Address: 60
+Physical memory: 20
+Total Swaps: 65
+
+Give an address: 
+Address: 200
+Physical memory: 24
+Total Swaps: 66
+
+Give an address: 
+Address: 31
+Physical memory: 15
+Total Swaps: 67
+
+Give an address: 
+Address: 102
+Physical memory: 6
+Total Swaps: 68
+
+Give an address: 
+Address: 142
+Physical memory: 22
+Total Swaps: 69
+
+Give an address: 
+Address: 161
+Physical memory: 25
+Total Swaps: 70
+
+Give an address: 
+Address: 122
+Physical memory: 10
+Total Swaps: 71
+
+Give an address: 
+Address: 246
+Physical memory: 6
+Total Swaps: 72
+
+Give an address: 
+Address: 58
+Physical memory: 18
+Total Swaps: 73
+
+Give an address: 
+Address: 242
+Physical memory: 2
+Total Swaps: 73
+
+Give an address: 
+Address: 164
+Physical memory: 28
+Total Swaps: 73
+
+Give an address: 
+Address: 27
+Physical memory: 11
+Total Swaps: 74
+
+Give an address: 
+Address: 207
+Physical memory: 23
+Total Swaps: 75
+
+Give an address: 
+Address: 55
+Physical memory: 7
+Total Swaps: 76
+
+Give an address: 
+Address: 245
+Physical memory: 29
+Total Swaps: 77
+
+Give an address: 
+Address: 197
+Physical memory: 13
+Total Swaps: 78
+
+Give an address: 
+Address: 54
+Physical memory: 6
+Total Swaps: 78
+
+Give an address: 
+Address: 10
+Physical memory: 18
+Total Swaps: 79
+
+Give an address: 
+Address: 151
+Physical memory: 31
+Total Swaps: 80
+
+Give an address: 
+Address: 88
+Physical memory: 8
+Total Swaps: 81
+
+Give an address: 
+Address: 94
+Physical memory: 14
+Total Swaps: 81
+
+Give an address: 
+Address: 222
+Physical memory: 6
+Total Swaps: 82
+
+Give an address: 
+Address: 172
+Physical memory: 20
+Total Swaps: 83
+
+Give an address: 
+Address: 119
+Physical memory: 31
+Total Swaps: 84
+
+Give an address: 
+Address: 230
+Physical memory: 14
+Total Swaps: 85
+
+Give an address: 
+Address: 118
+Physical memory: 30
+Total Swaps: 85
+
+Give an address: quit program
