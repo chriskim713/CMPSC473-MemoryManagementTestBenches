@@ -18,4 +18,4 @@ with open(outputFileName, "w") as f:
 	f.write("\n".join([str(x) for x in [policy, N, numFrames, virtualAddressSpaceSize]]))
 	f.write("\n")
 	for i in range(100):
-		f.write("%d\n" % (random.randint(1, 2**virtualAddressSpaceSize)))
+		f.write("%d\n" % (random.randint(0, 2**virtualAddressSpaceSize - 1)))
